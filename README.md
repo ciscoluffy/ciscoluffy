@@ -20,5 +20,5 @@ Tools: Git, Docker, AWS
 ---
 
 ## 📫 Connect With Me
-- LinkedIn:
+- LinkedIn:https://www.linkedin.com/in/prosper-obule-495b09249?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Portfolio:
