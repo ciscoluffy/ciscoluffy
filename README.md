@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ciscoluffy 👋
 
-<!--
-**ciscoluffy/ciscoluffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+💡 Building scalable Laravel platforms & automation systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Projects
+- Document generation platform (Laravel + Vue)
+- PSD automation using Photopea SDK
+- Smart image cropping & face detection system
+
+---
+
+## 🛠 Tech Stack
+Backend: Laravel, PHP, MySQL  
+Frontend: Vue, Tailwind CSS, JavaScript  
+Tools: Git, Docker, AWS  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn:
+- Portfolio:
